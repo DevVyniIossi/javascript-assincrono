@@ -1,6 +1,6 @@
 # Javascript Assíncrono
 
-Neste repositório você encontrará a atividade prática proposta pelo curso "Debugging e Error Handling" do BootCamp da TQI da DIO - Digital Innovation One, ministrado pela [stebsnusch](https://github.com/stebsnusch).
+Neste repositório você encontrará a atividade prática proposta pelo curso "Javascript Assíncrono" do BootCamp da TQI da DIO - Digital Innovation One, ministrado pela [stebsnusch](https://github.com/stebsnusch).
 
 
 
